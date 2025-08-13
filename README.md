@@ -13,7 +13,7 @@ A simple XO (Tic-Tac-Toe) game that helped me:
 
 A great beginner project to grasp essential JavaScript concepts.
 
--- 
+----
 
 **2) To-Do List**
 
@@ -23,7 +23,7 @@ An amazing little app that strengthened my JavaScript skills:
 - Improving event handling and DOM manipulation
 - Keeping the UI simple but functional
 
--- 
+----
 **3) Simple Portfolio**
 
 A basic HTML & CSS portfolio that helped me:
@@ -32,7 +32,7 @@ A basic HTML & CSS portfolio that helped me:
 - Practice layout techniques
 - Keep code organized and readable
 
--- 
+----
 **4) YouTube Interface**
 
 This project pushed my skills further:
@@ -41,7 +41,7 @@ This project pushed my skills further:
 - Mastering Flexbox for flexible, responsive layouts
 - Styling multiple elements with precision
 - Following good coding practices for clean, maintainable code
- ---
+ ----
  
  **How to Use**
  
@@ -50,5 +50,5 @@ You can clone this repo or download the files directly.
 Any suggestions, improvements, or feedback are welcome!
 ```
 
----
+----
 © 2025 Delhoum Lina
