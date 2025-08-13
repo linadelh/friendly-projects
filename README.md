@@ -14,7 +14,8 @@ A simple XO (Tic-Tac-Toe) game that helped me:
 A great beginner project to grasp essential JavaScript concepts.
 
 
-![project](game.p,g.png)
+<img src="game.p,g.png" alt="" width="400">
+
 
 
 ----
@@ -27,7 +28,7 @@ An amazing little app that strengthened my JavaScript skills:
 - Improving event handling and DOM manipulation
 - Keeping the UI simple but functional
 
-  ![project](todo.png)
+ <img src="todo.png" alt="" width="400">
   
 
 ----
@@ -39,7 +40,7 @@ A basic HTML & CSS portfolio that helped me:
 - Practice layout techniques
 - Keep code organized and readable
 
-  ![project](portfolio.png)
+  <img src="portfolio.png" alt="" width="400">
 
 
 ----
@@ -52,7 +53,8 @@ This project pushed my skills further:
 - Styling multiple elements with precision
 - Following good coding practices for clean, maintainable code
 
-  ![project](youtu.png)
+ <img src="youtu.png" alt="" width="400">
+
  ----
  
  **How to Use**
